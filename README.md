@@ -1,5 +1,5 @@
 # TICTACTOE GAME
-CREATED BY: [Deiv-Ops](https://github.com/dgonzalezt2)
+Created by: [Deiv-Ops](https://github.com/dgonzalezt2)
 
 # TOOLS
 
