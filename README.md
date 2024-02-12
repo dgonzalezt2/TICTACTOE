@@ -23,7 +23,7 @@ By: Deiv-ops
 To run the TicTacToe game, follow these steps:
 
 Clone the Repository:
-```bash
+```bash 
 git clone https://github.com/dgonzalezt2/TICTACTOE.git
 ```
 
@@ -31,11 +31,14 @@ git clone https://github.com/dgonzalezt2/TICTACTOE.git
 Open the project folder in Visual Studio Code or any preferred code editor.
 
 # RUN IN BROWSER:
-Open the ```bash tictactoe.html``` file in your preferred browser.
+Open the ```tictactoe.html``` file in your preferred browser.
+
 ![image](https://github.com/dgonzalezt2/TICTACTOE/assets/81880494/9dbd7805-cfca-47b6-bf38-c2b0761ce1e4)
 
 # PLAY THE GAME
 
 Enjoy playing the TicTacToe game! Click on the grid to make your moves and try to win against the opponent.
+
+![image](https://github.com/dgonzalezt2/TICTACTOE/assets/81880494/ae7eca48-4323-4a5b-a684-63174dd44d1f)
 
 Feel free to explore and modify the code to enhance your gaming experience. Happy coding!
