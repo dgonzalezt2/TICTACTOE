@@ -30,7 +30,7 @@ function handleCellClick(event) {
 
     // Verificar si hay un ganador
     if (checkWinner()) {
-      const winner = currentPlayer === 'heart' ? 'Hearth' : 'Hearth';
+      const winner = currentPlayer === 'heart' ? 'Heart' : 'Smile';
       showNotification(`Player ${winner} you win!`);
       updateScore();
       resetGame();
@@ -42,7 +42,7 @@ function handleCellClick(event) {
 
     // Verificar si hay empate
     if (isBoardFull()) {
-      showNotification('DRAW!');
+      showNotification('Draw!');
       updateDrawScore();
       resetGame();
       return;
@@ -57,7 +57,7 @@ function showNotification(message) {
   // Ocultar la notificación después de 2 segundos
   setTimeout(() => {
     notification.style.display = 'none';
-  }, 2000);
+  }, 2300);
 }
 
 function isCellEmpty(index) {

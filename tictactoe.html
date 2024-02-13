@@ -5,9 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles.css">
   <script defer src="script.js"></script>
+  <!-- Agregamos el enlace para Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
   <title>TICTACTOE DEIV-OPS</title>
+  <style>
+    .social-media a i {
+      font-size: 3em; /* Ajusta el tamaño de los iconos según tus necesidades */
+      margin: 10px 10px; /* Agrega un espacio entre los iconos si lo deseas */
+      color: #fff; /* Establece el color del icono a blanco */
+    }
+  </style>
 </head>
 <body>
+
   <div id="container">
     <style>
       #scoreboard {
@@ -15,18 +25,27 @@
       }
     
       .score {
-        color: black; /* Configura el color del texto a negro */
+        color: rgb(255, 255, 255); /* Configura el color del texto a negro */
       }
     </style>
-    
+
     <div id="scoreboard">
-      <div id="playerHeart" class="score">HEARTH: 0</div>
-      <div id="playerSmiley" class="score">SMILE: 0</div>
-      <div id="draw" class="score">DRAW: 0</div>
+      <div id="playerHeart" class="score">Heart: 0</div>
+      <div id="playerSmiley" class="score">Smile: 0</div>
+      <div id="draw" class="score">Draw: 0</div>
     </div>
     
     <div id="board"></div>
     <div id="notification" class="hidden"></div>
+    
+    <!-- Footer con enlaces a redes sociales -->
+    <footer>
+      <div class="social-media">
+        <a href="https://www.instagram.com/davidgonza0326/" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://github.com/dgonzalezt2" target="_blank"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/david-gonzález-tamayo" target="_blank"><i class="fab fa-linkedin"></i></a>
+      </div>
+    </footer>
   </div>
 </body>
 </html>
