@@ -34,6 +34,6 @@ Open the ```tictactoe.html``` file in your preferred browser.
 
 Enjoy playing the TicTacToe game! Click on the grid to make your moves and try to win against the opponent.
 
-![image](https://github.com/dgonzalezt2/TICTACTOE/assets/81880494/ae7eca48-4323-4a5b-a684-63174dd44d1f)
+![image](https://github.com/dgonzalezt2/TICTACTOE/assets/81880494/cd1f2895-92e4-44f0-8d19-da9d86253983)
 
 Feel free to explore and modify the code to enhance your gaming experience. Happy coding!
