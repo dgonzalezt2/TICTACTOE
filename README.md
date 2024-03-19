@@ -1,4 +1,7 @@
 # TICTACTOE GAME
+
+This repository contains the code of a classic Tic Tac Toe game implemented with web technologies: HTML, JavaScript and CSS. The game allows two players to face each other on an interactive board.
+
 Created by: [Deiv-Ops](https://github.com/dgonzalezt2)
 
 # TOOLS
